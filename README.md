@@ -31,7 +31,7 @@ Data analysis was performed using:
 
 ## Key Findings
 
-The following key findings highlight the most critical discoveries from our analysis. They are:
+The following key findings highlight the most critical discoveries from my analysis. They are:
 1. The top-selling category is Fruits, generating $0.65 million in sales
 2. The United States made the most orders, with 213 orders totaling $1,029,734 in sales
 3. Sales peak in Q3, with $1.2 million in total sales, and specifically in May, with $420,000 in monthly sales
