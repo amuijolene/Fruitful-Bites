@@ -7,7 +7,7 @@ This data analysis project seeks to provide a comprehensive understanding of Fru
 ---
 ## Tools
 
-- MS Excel : For data cleaning and analysis
+- MS Excel : For data cleaning, analysis and visualization
 
 ## Data Cleaning and Preparation
 
