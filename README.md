@@ -8,6 +8,7 @@ This data analysis project seeks to provide a comprehensive understanding of Fru
 ## Tools
 
 - MS Excel : For data cleaning, analysis and visualization
+- Power Bi : For creating a report
 
 ## Data Cleaning and Preparation
 
